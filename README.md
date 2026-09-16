@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0836-rectangle-overlap) |
 ## Geometry
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
