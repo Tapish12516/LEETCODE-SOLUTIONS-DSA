@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0836-rectangle-overlap) |
 ## Geometry
