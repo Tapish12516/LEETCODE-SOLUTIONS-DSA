@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0027-remove-element) |
+| [0204-count-primes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0836-rectangle-overlap) |
@@ -76,4 +78,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0412-fizz-buzz) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
