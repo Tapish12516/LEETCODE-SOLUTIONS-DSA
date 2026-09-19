@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0027-remove-element) |
 | [0204-count-primes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0204-count-primes) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0704-binary-search) |
 ## Math
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1512-number-of-good-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
