@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0709-to-lower-case) |
+| [3498-reverse-degree-of-a-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0412-fizz-buzz) |
+| [3498-reverse-degree-of-a-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
