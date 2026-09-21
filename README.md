@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0709-to-lower-case) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0136-single-number) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
