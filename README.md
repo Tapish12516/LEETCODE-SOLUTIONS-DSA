@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Geometry
 |  |
 | ------- |
