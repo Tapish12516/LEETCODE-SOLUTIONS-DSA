@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -138,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -164,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
