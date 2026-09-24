@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0896-monotonic-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1512-number-of-good-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
