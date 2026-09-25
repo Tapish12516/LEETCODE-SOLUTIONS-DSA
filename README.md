@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1512-number-of-good-pairs) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0412-fizz-buzz) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
