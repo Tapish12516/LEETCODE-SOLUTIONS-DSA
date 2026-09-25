@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0075-sort-colors) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0493-reverse-pairs) |
