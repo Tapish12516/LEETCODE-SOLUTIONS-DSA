@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0229-majority-element-ii) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
