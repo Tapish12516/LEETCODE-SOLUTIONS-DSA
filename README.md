@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0896-monotonic-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0704-binary-search) |
 ## Math
 |  |
