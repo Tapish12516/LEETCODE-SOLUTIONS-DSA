@@ -6,7 +6,7 @@ public:
         for(char c : s) {
             if(c == '(') {
                 st.push(c);
-                ans = max(ans, (int)st.size());
+                ans = max(ans, (int)st.size());     //ans is keep tracking the maximum no. of ( in stack 
             }
             else if(c == ')')  st.pop();
         }
