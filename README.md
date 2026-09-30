@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Pigeonhole Principle
 |  |
@@ -304,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
