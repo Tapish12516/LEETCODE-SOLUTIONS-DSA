@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0172-factorial-trailing-zeroes) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0231-power-of-two) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0061-rotate-list) |
