@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0856-score-of-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -328,12 +329,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
