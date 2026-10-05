@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
@@ -363,4 +365,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0200-number-of-islands) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
