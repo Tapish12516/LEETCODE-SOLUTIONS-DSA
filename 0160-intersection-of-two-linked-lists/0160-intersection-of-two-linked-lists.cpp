@@ -9,15 +9,28 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        ListNode* tempA = headA;
-        while (tempA != NULL) {
-            ListNode* tempB = headB;
-            while (tempB != NULL) {
-                if (tempA == tempB)  return tempA;
-                tempB = tempB->next;
-            }
-            tempA = tempA->next;
+        ListNode* tempa = headA;
+        ListNode* tempb = headB;
+        while (tempa != tempb) {
+            tempa = (tempa != nullptr) ? tempa->next : headB;           //optimal 
+            tempb = (tempb != nullptr) ? tempb->next : headA;
         }
-        return NULL;
+        return tempa;        
     }
 };
+
+// class Solution {
+// public:
+//     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+//         ListNode* tempA = headA;
+//         while (tempA != NULL) {
+//             ListNode* tempB = headB;
+//             while (tempB != NULL) {
+//                 if (tempA == tempB)  return tempA;               //bruteforce solution
+//                 tempB = tempB->next;
+//             }
+//             tempA = tempA->next;
+//         }
+//         return NULL;
+//     }
+// };
