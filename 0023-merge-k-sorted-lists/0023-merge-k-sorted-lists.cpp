@@ -20,7 +20,7 @@ public:
                 vertical = vertical->next;
             }
         }
-        sort(values.begin() , values.end());
+        sort(values.begin() , values.end());                    //better solution O(nlogn) and O(n)
         ListNode dumpy(0);
         ListNode* temp = &dumpy;
         for(int value:values){
