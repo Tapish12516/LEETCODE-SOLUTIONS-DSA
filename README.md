@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2409-count-days-spent-together](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
