@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Quicksort
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0200-number-of-islands) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
