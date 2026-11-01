@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1903-largest-odd-number-in-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
