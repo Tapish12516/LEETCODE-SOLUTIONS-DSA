@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0496-next-greater-element-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
