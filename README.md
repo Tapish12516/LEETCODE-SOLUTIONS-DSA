@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0496-next-greater-element-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
