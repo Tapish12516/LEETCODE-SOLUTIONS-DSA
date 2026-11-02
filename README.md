@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0496-next-greater-element-i) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
