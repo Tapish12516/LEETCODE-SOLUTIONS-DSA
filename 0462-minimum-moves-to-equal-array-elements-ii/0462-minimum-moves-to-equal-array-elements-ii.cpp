@@ -1,12 +1,12 @@
 class Solution {
 public:
     int minMoves2(vector<int>& nums) {
-        sort(nums.begin() , nums.end());
-        int median = nums[nums.size()/2];
-        int ans=0;
-        for(int i = 0 ; i < nums.size(); i++){
-            ans+=abs(nums[i]-median);
+        int n = nums.size(), steps = 0;
+        sort(nums.begin(), nums.end());
+        int median = nums[n/2]; // Finding median
+        for(int i=0; i<n; i++){
+            steps += abs(nums[i] - median); //Adding absolute difference
         }
-        return ans;
+        return steps;
     }
 };
