@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0856-score-of-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
