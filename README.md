@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Quicksort
 |  |
