@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0075-sort-colors) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0735-asteroid-collision) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0200-number-of-islands) |
 | [2643-row-with-maximum-ones](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2643-row-with-maximum-ones) |
