@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0200-number-of-islands) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -574,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bucket Sort
 |  |
