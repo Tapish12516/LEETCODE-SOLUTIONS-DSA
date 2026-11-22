@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0709-to-lower-case) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [2747-count-zero-request-servers](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Monotonic Queue
