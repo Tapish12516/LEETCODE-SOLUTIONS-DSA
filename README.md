@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0493-reverse-pairs) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0450-delete-node-in-a-bst) |
