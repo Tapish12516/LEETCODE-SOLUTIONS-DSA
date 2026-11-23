@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Tree
 |  |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -601,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0662-maximum-width-of-binary-tree) |
