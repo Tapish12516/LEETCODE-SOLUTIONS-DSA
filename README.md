@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tapish12516/LEETCODE-SOLUTIONS-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
