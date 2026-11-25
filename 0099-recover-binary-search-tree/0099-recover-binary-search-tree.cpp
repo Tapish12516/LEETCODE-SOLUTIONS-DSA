@@ -11,23 +11,19 @@
  */
 class Solution {
 public:
-    void collectvalues(TreeNode* root , vector<int>& values){
-        if(root == nullptr) return;
-        collectvalues(root->left , values);
-        values.push_back(root->val);
-        collectvalues(root->right , values);
+    TreeNode* prev = NULL; TreeNode* first = NULL; TreeNode* second = NULL;
+    void inorder(TreeNode* root) {
+        if(!root){return;}
+        inorder(root->left);
+        if(prev && prev->val > root->val){
+            if(!first){first = prev;}
+            second = root;
+        }
+        prev = root;
+        inorder(root->right);
     }
-    void replacevalues(TreeNode* root , vector<int>& values  , int& index){
-        if(!root) return;
-        replacevalues(root->left , values , index);
-        root->val = values[index++];
-        replacevalues(root->right , values , index);
-    }
-    void recoverTree(TreeNode* root) {
-        vector<int> values;
-        collectvalues(root , values);
-        sort(values.begin() , values.end());
-        int index = 0;
-        replacevalues(root , values , index);
+    void recoverTree(TreeNode* root){
+        inorder(root);
+        swap(first->val,second->val);
     }
 };
